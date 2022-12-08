@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Turn piston and dropper sounds off",
+        "name": "Mute_Piston_and_Dropper",
+        "uuid": "52eed52d-bfba-424a-aaf3-829bcd94b78d",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "025e1687-e5e2-4257-a526-c40d2899f8f5",
+            "version": [0, 0, 1]
+        }
+    ]
+}

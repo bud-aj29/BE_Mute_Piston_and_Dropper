@@ -1,0 +1,26 @@
+{
+   "individual_event_sounds" : {
+      "events" : {
+         "piston.in" : {
+            "pitch" : [ 0.60, 0.750 ],
+            "sound" : "tile.piston.in",
+            "volume" : 0.0 //default=0.50
+         },
+         "piston.out" : {
+            "pitch" : [ 0.60, 0.750 ],
+            "sound" : "tile.piston.out",
+            "volume" : 0.0 //default=0.50
+         },
+         "block.click" : {
+            "pitch" : 1.0,
+            "sound" : "block.click",
+            "volume" : 0.0 //default=1.0
+         },
+         "block.click.fail" : {
+            "pitch" : 1.20,
+            "sound" : "block.click",
+            "volume" : 0.0 //default=1.0
+         }
+      }
+   }
+}
